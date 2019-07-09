@@ -1,4 +1,4 @@
-# Lists, Tuples, Sets, Dictionary, Compound data structures
+# Lists, Tuples, Sets, Dictionary
 
 # 1D Lists
 print("1D lists:")
