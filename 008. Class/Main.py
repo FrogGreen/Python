@@ -1,6 +1,6 @@
 # Class
 
-from Car import Car
+from Class import Car
 
 
 #Creating new object Mazda RX
