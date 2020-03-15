@@ -1,6 +1,5 @@
 # By tradition, this is everyone's first program.
 
-
 print("Hello World!")
 
 
